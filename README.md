@@ -1,54 +1,65 @@
-# Smart Waste Bin Monitoring System 🗑️
+# 🗑️ Smart Waste Bin Monitoring System
 
-### 🧩 Project Type
-College OOP Mini Project — part of my journey of learning **Java** and exploring **Object-Oriented Programming concepts**.
+### 🎓 College OOP Mini Project  
+This project was created as part of my journey in learning **Java** and exploring **Object-Oriented Programming (OOP)** concepts.
 
 ---
 
 ## 📘 Project Description
-The **Smart Waste Bin Monitoring System** is a Java-based GUI application that simulates a smart waste management system.  
-It uses **Object-Oriented Programming (OOP)** principles such as **Encapsulation**, **Inheritance**, and **Polymorphism** to monitor and display the fill level of a waste bin in real time.
+The **Smart Waste Bin Monitoring System** is a Java-based GUI application that simulates a smart waste management process.  
+It uses **OOP principles** such as Encapsulation, Inheritance, and Polymorphism to represent real-world waste monitoring behavior.  
 
-When the bin level exceeds a certain threshold (e.g., 80%), the system automatically displays an alert to notify that the bin needs to be emptied.  
-This project is a simple representation of how **IoT-inspired ideas** can be implemented using **Java and Swing GUI**.
+The system visually displays the **bin’s fill level** using a progress indicator.  
+When the bin level exceeds a certain threshold (e.g., 80%), the program displays a **warning alert** to prompt the user to empty the bin.  
+This helps demonstrate how **IoT-inspired smart monitoring systems** can be prototyped using **Java Swing GUI**.
 
 ---
 
 ## ⚙️ Features
-- Real-time bin level simulation  
-- Visual progress bar (GUI)  
-- Alert messages for full bin status  
-- Reset functionality to empty the bin  
-- Simple and clean Java Swing interface  
+- Real-time bin level updates  
+- Visual GUI representation  
+- Alert notifications when bin is almost full  
+- Option to empty the bin  
+- Interactive and beginner-friendly design  
 
 ---
 
 ## 🧠 Concepts Used
 - Classes and Objects  
-- Inheritance and Interfaces  
+- Encapsulation and Inheritance  
 - Event Handling  
-- GUI Programming using Java Swing  
+- GUI Programming using **Java Swing**  
 
 ---
 
 ## 🧰 Requirements
-- Java JDK 8 or above  
+- **Java JDK 8 or higher**  
 - Any Java IDE (Eclipse, IntelliJ IDEA, or BlueJ)
 
 ---
 
 ## 🚀 How to Run
-1. Clone this repository or download the project files.  
+1. Clone or download this repository.  
 2. Open your IDE and create a new Java project.  
-3. Add a new file named `SmartWasteBin.java`.  
-4. Copy the provided source code into it.  
-5. Run the program — a GUI window will appear to simulate the smart bin.
+3. Create a file named `SmartWasteBin.java`.  
+4. Paste the provided source code.  
+5. Run the program — a GUI window will appear displaying the bin simulation.
 
 ---
 
-## 🧑‍💻 Author
+## 🖼️ Screenshots
+
+### 🟢 Bin Empty
+![Smart Waste Bin - Empty](EmptyBin.png)
+
+### 🟠 Bin Half Full
+![Smart Waste Bin - Half](HalfBin.png)
+
+---
+
+## 👨‍💻 Author
 **Mani Maran**  
-> Created as part of my college mini project while learning Java and Object-Oriented Programming.
+> Developed as part of my **college mini project** during my learning journey in Java.
 
 ---
 
